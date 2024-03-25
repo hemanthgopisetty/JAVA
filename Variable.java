@@ -13,7 +13,7 @@ class Variable {
     public static void main(String[] args)
     {
         int num ;//declaration of a variable
-        num =100;//this assigns a varaible
+        num =-100;//this assigns a varaible
         System.out.println("This is num " + num);//In this statement, the plus sign causes the value of num to be appended to the string that precedes it, and then the resulting string is output.
         //Actually, num is first converted from an integer into its string equivalent and then concatenated with the string that precedes it.
 
